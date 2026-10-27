@@ -1,5 +1,7 @@
 # 🚀 TaskFlow — Gerenciador de Tarefas Full Stack
+## Demonstração da aplicação
 
+![Interface do TaskFlow](screenshots/taskflow-preview.png)
 Aplicação web Full Stack desenvolvida com Python e FastAPI para gerenciamento de tarefas, com uma interface intuitiva e armazenamento persistente em SQLite.
 
 ## Sobre o projeto
